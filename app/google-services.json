@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1042208619406",
+    "firebase_url": "https://postbook-e9943.firebaseio.com",
+    "project_id": "postbook-e9943",
+    "storage_bucket": "postbook-e9943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042208619406:android:ad19f2d705e479e5",
+        "android_client_info": {
+          "package_name": "com.postbook.postbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042208619406-hs5a27e06svot2hlo2plq1n6eaqtcgip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.postbook.postbook",
+            "certificate_hash": "6ac0f3af93a79f9bc9f506e1de32b1f155388b69"
+          }
+        },
+        {
+          "client_id": "1042208619406-i96fgb1ta6vpqsjo182cnrvvp204hqbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkCcKE8_VZ8gQJLRtIbNxqf5uhPR081qY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042208619406-i96fgb1ta6vpqsjo182cnrvvp204hqbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
